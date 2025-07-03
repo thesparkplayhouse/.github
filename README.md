@@ -1,6 +1,6 @@
 ![](profile.jpg)
 
-# [_The Spark Playhouse_ GitHub profile!](https://github.com/thesparkplayhouse/.github/)
+# [_The Spark Playhouse_ GitHub profile](https://github.com/thesparkplayhouse/.github/)
 
 This repository serves as the central location for **The Spark Playhouse**'s public GitHub profile README and other associated assets.
 
